@@ -2,9 +2,6 @@
 
 Application Android de type compteur, réalisée en Kotlin avec Android Studio dans le cadre du TP « Réalisation d'une application compteur ».
 
-- **Établissement** : ISET Djerba, Licence en TI, spécialité DSI
-- **Nom et prénom** : ...
-- **Groupe** : ...
 
 ## Fonctionnalités
 
