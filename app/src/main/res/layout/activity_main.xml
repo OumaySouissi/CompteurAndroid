@@ -73,4 +73,24 @@
         app:layout_constraintTop_toBottomOf="@+id/buttonDecrementer"
         android:backgroundTint="#E91E63"/>
 
+    <Button
+        android:id="@+id/buttonIncrementer5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/buttonReinitialiser"
+        app:layout_constraintStart_toEndOf="@id/buttonDecrementer5"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="16dp"
+        android:text="@string/bouton_plus5"/>
+
+    <Button
+        android:id="@+id/buttonDecrementer5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/buttonReinitialiser"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/buttonIncrementer5"
+        android:layout_marginTop="16dp"
+        android:text="@string/bouton_moins5"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>

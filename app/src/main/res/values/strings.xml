@@ -5,4 +5,7 @@
     <string name="bouton_incrementer">+</string>
     <string name="bouton_decrementer">-</string>
     <string name="bouton_reinitialiser">Réinitialiser</string>
+    <string name="bouton_plus5">+5</string>
+    <string name="bouton_moins5">-5</string>
+    <string name="message_reinitialise">Compteur réinitialisé</string>
 </resources>
